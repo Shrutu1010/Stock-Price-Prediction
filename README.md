@@ -1,5 +1,6 @@
 
 📈 **Stock Price Prediction using Machine Learning**
+
 🧠 **Overview**
 
 This project focuses on predicting future stock prices using historical stock market data and machine learning models. It utilizes supervised learning techniques like Linear Regression, LSTM (Long Short-Term Memory), and Random Forest to forecast future stock prices based on historical trends. The goal is to help users visualize, analyze, and make informed decisions based on model predictions.
